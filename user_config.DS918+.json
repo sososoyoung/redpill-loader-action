@@ -5,9 +5,7 @@
     "sn": "20C0SBRMP48GJ",
     "netif_num":"2",
     "mac1": "001132123456",
-    "mac2": "001132123466",
-    "SataPortMap": "24",
-    "DiskIdxMap": "0002"
+    "mac2": "001132123466"
   },
   "synoinfo": {
     "maxdisks": "16",
